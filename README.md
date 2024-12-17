@@ -5,7 +5,7 @@
 This is a simple Flask web application that conditionaly render forms based on user
 selection and displays submitted form data.
 
--Features
+- Features
 
  **Homepage**: Allows users to select a form type.
  **Form1**: A form with 5 text fields, every fields are required.
