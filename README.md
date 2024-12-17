@@ -13,19 +13,19 @@ selection and displays submitted form data.
  **Form Submission**: Submits the data to the server and displays the submitted information.
 
 
--- Setup Instructions 
+- Setup Instructions 
 
 Follow these steps to set up and run the project:
 
 
-- 1. Clone the Repository 
+ 1. Clone the Repository 
 
 git clone https://github.com/ROHITKUMBHAR6800/Assignment---Logic-Clutch.git
 
 cd Assignment---Logic-Clutch   (flask--app--dir)
 
 
-- 2. Create and Activate Virtual Environment 
+ 2. Create and Activate Virtual Environment 
 
 python -m venv venv
 
@@ -33,13 +33,13 @@ For Windows:
 venv\Scripts\activate
 
 
-- 3. Install Dependencies 
+ 3. Install Dependencies 
 Install the required packages listed in requirements.txt:
 
 pip install -r requirements.txt
 
 
-- 4. Run the Flask Application 
+ 4. Run the Flask Application 
 Start the Flask development server:
 
 python app.py
@@ -47,7 +47,7 @@ python app.py
 The application will run at http://127.0.0.1:5000/.
 
 
--- Usage 
+- Usage 
 
 Open http://127.0.0.1:5000/ in a web browser.
 Select a form type from the dropdown.
