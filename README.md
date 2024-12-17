@@ -5,7 +5,7 @@
 This is a simple Flask web application that conditionaly render forms based on user
 selection and displays submitted form data.
 
-Features
+--Features
 
 - **Homepage**: Allows users to select a form type.
 - **Form1**: A form with 5 text fields, every fields are required.
@@ -13,7 +13,7 @@ Features
 - **Form Submission**: Submits the data to the server and displays the submitted information.
 
 
-- Setup Instructions 
+-- Setup Instructions 
 
 Follow these steps to set up and run the project:
 
@@ -47,7 +47,7 @@ python app.py
 The application will run at http://127.0.0.1:5000/.
 
 
-- Usage 
+-- Usage 
 
 Open http://127.0.0.1:5000/ in a web browser.
 Select a form type from the dropdown.
