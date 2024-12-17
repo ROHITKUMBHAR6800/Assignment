@@ -7,10 +7,10 @@ selection and displays submitted form data.
 
 - Features
 
- **Homepage**: Allows users to select a form type.
- **Form1**: A form with 5 text fields, every fields are required.
- **Form2**: A form with 2 text fields and a radio button group, every fields are required.
- **Form Submission**: Submits the data to the server and displays the submitted information.
+ - **Homepage**: Allows users to select a form type.
+ - **Form1**: A form with 5 text fields, every fields are required.
+ - **Form2**: A form with 2 text fields and a radio button group, every fields are required.
+ - **Form Submission**: Submits the data to the server and displays the submitted information.
 
 
 - Setup Instructions 
