@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Select a Form</h1>
+        <form method="post" action="/get-form">
+            <label for="form_type">Choose Form Type:</label>
+            <select id="form_type" name="form_type">
+                <option value="form1">Form 1</option>
+                <option value="form2">Form 2</option>
+            </select>
+            <button type="submit">Load Form</button>
+        </form>
+    </div>
+</body>
+</html>
