@@ -52,7 +52,7 @@ The application will run at http://127.0.0.1:5000/.
 
 - Usage 
 
-Open http://127.0.0.1:5000/ in a web browser.
-Select a form type from the dropdown.
-Submit the selected form.
-Fill out the form fields and click submit to see the submitted data.
+1. Open http://127.0.0.1:5000/ in a web browser.
+2. Select a form type from the dropdown.
+3. Submit the selected form.
+4. Fill out the form fields and click submit to see the submitted data.
